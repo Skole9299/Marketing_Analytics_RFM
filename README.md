@@ -1,4 +1,4 @@
-# Marketing_Analytics_RFM
+# RFM (recency, frequency, monetary value) analysis, Customer/ Product Segmentation
 
 ### Data cleaning
 ### EDA
